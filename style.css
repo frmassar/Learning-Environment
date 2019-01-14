@@ -1,3 +1,17 @@
+body {
+    background-image: url(fond.jpg); 
+    
+}
+h1 { color: #ffffff; font-family: 'Helvetica Neue', sans-serif; font-size: 175px; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: center; }
+h2 { color: #ffffff; font-family: 'Open Sans', sans-serif; font-size: 30px; font-weight: 300; line-height: 32px; margin: 0 0 72px; text-align: center; }
+
+.theme {color: #AAAAAA; font-family: 'Source Sans Pro', sans-serif; font-size: 28px; font-weight: 400; line-height: 32px; margin: 0 0 24px; }
+p { color: #FF851B; font-family: 'Helvetica Neue', sans-serif; font-size: 14px; line-height: 24px; margin: 0 0 24px; text-align: justify; text-justify: inter-word; }
+
+.transparent{position: absolute; 
+    opacity: 0.5; float: center;
+}
+
 table, th, td {
-     border: 1px solid black; 
+     border: 1px solid rgb(233, 13, 13); 
     }
